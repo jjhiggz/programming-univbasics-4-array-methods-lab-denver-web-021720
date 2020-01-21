@@ -11,7 +11,7 @@ return array.reverse
 end
 
 def using_first(array)
-return array.firt
+return array.first
 end
 
 def using_last(array)
@@ -19,7 +19,7 @@ return array[-1]
 end
 
 def using_size(array)
-returnarray.size
+return array.size
 end
 array = ['c','b','a']
 element = 'd'
