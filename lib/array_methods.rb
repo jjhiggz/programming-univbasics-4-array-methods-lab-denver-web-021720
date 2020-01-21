@@ -21,7 +21,7 @@ end
 def using_size(array)
 
 end
-array = ['a','b','c']
+array = ['c','b','a']
 element = 'd'
 r=using_include(array, element)
 puts r
